@@ -1,0 +1,31 @@
+.mytext{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.item{
+    margin-top: 0px;
+}
+
+#signupbtn{
+    background-color: blueviolet;
+}
+
+
+.middle{
+    background-color: burlywood;
+   height: 130px;
+   margin-bottom: 50px;
+   
+}
+
+span{
+    color: blue; 
+   
+}

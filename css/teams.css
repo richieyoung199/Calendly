@@ -1,0 +1,29 @@
+.mytext{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.item{
+    margin-top: 0px;
+}
+
+.heading{
+    text-align: center;
+    margin-top: 40px;
+}
+.heading2{
+    text-align: center;
+}
+
+span{
+    color: blue;
+}
+h5{
+    margin-top: 20px;
+}
